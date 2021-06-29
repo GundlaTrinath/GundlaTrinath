@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrinathGundla
-- 👀 I’m interested in coding
+- 👀 I’m interested in python coding
 - 🌱 I’m currently learning on voice_assist
 - 💞️ I’m looking to collaborate on python development
 - 📫 reach me @trinathgundla@gmail.com
