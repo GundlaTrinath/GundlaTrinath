@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrinathGundla
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning on voice_assist
+- 🌱 I’m currently learning on app_development
 - 💞️ I’m looking to collaborate on python development
 - 📫 reach me @trinathgundla@gmail.com
 
