@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TrinathGundla
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning on app_development
-- 💞️ I’m looking to collaborate on python development
-- 📫 reach me @trinathgundla@gmail.com
+- 👋 Hi, I’m GundlaTrinath
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning on Java Full Stack
+- 💞️ I’m looking to collaborate as Developer
+- 📫 reach me trinathgundla@gmail.com
 
 <!---
 GundlaTrinath/GundlaTrinath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
