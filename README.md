@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GundlaTrinath
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning on Java Full Stack
 - 💞️ I’m looking to collaborate as Developer
 - 📫 reach me trinathgundla@gmail.com
