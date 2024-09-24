@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GundlaTrinath
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning on Java Full Stack
-- 💞️ I’m looking to collaborate as Developer
+- 🌱 I’m currently learning on Machine Learning
+- 💞️ I’m looking to collaborate as Data scientist
 - 📫 reach me trinathgundla@gmail.com
 
 <!---
