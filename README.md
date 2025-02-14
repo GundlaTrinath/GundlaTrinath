@@ -44,7 +44,7 @@ I'm always growing! Here are a few things I'm diving into:
 
 I'm excited to discuss new projects, ideas, or opportunities. Feel free to reach out through any of the following channels:
 
-- **Email:** [trinathgundla@gmail.com](mailto:youremail@example.com)  
+- **Email:** [trinathgundla358@gmail.com](mailto:trinathgundla358@gmail.com)  
 - **LinkedIn:** [Trinath Gundla](https://www.linkedin.com/in/trinath-gundla-298828210/)
 
 ### 🤝 Let's Connect!
