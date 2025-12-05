@@ -31,10 +31,6 @@ I'm always growing! Here are a few things I'm diving into:
 
 ## 🌟 GitHub Achievements & Activity
 
-### 📊 Activity Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GundlaTrinath&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GundlaTrinath&layout=compact&theme=radical)
-
 ### 🏆 GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=GundlaTrinath&theme=radical)
 
